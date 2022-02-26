@@ -1,4 +1,6 @@
-**The Newsletter App on heroku:**  https://hamza-newsletter-app.herokuapp.com/
+# Newsletter
+
+**The Newsletter App on Heroku:**  https://hamza-newsletter-app.herokuapp.com/
 
 ### Details
 This is a node.js application deployed with [Heroku platform](https://www.heroku.com).  <br/>
